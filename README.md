@@ -17,15 +17,15 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This is an Udacity Nanodegree project. I chose  Stackoverflow’s 2017,2018 and 2019 Annual Developer Survey dataset. 
 
-1-What are kinds of developers?
-2-what is egyptien developers ratio all over the wold?
-3-what is the ratio of males and females devolpers in egypt?
-4-What programming languages are most used to work in egypt last 3 years?
-5-which programming languages are most required in egypt last 3 years?
+1-What are kinds of developers?<br/>
+2-what is egyptien developers ratio all over the wold?<br/>
+3-what is the ratio of males and females devolpers in egypt?<br/>
+4-What programming languages are most used to work in egypt last 3 years?<br/>
+5-which programming languages are most required in egypt last 3 years?<br/>
 
 ## File Descriptions <a name="files"></a>
 
-The notebook available here showcases work related to the above questions.
+The notebook available here showcases work related to the above questions.<br/>
 Data: https://insights.stackoverflow.com/survey
 
 ## Results<a name="results"></a>
